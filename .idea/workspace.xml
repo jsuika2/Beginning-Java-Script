@@ -23,37 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ch2_practice4.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="480">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch2_examle8.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch2_examle8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch2_example9.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ch2_example9.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch2_example9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="7" selection-start="633" selection-end="633" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
+            <state line="2" column="19" selection-start="33" selection-end="33" vertical-scroll-proportion="0.056710776" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Junk.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Junk.html">
+      <file leaf-file-name="perfect3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perfect3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="20" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
+            <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -94,8 +76,8 @@
         <option value="$PROJECT_DIR$/ch2_example6.html" />
         <option value="$PROJECT_DIR$/ch2_example7.html" />
         <option value="$PROJECT_DIR$/ch2_examle8.html" />
-        <option value="$PROJECT_DIR$/ch2_example9.html" />
         <option value="$PROJECT_DIR$/Junk.html" />
+        <option value="$PROJECT_DIR$/ch2_example9.html" />
       </list>
     </option>
   </component>
@@ -268,7 +250,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/perfect3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345" />
+        <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch1_example2.html">
@@ -279,11 +263,6 @@
     <entry file="file://$PROJECT_DIR$/SJ/Sample3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="21" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perfect3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SJ/Sample4.js">
@@ -364,30 +343,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+    <entry file="file://$PROJECT_DIR$/Junk.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="480">
+        <state line="10" column="20" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2_examle8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+        <state line="20" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.56710774" vertical-offset="0" max-vertical-offset="529">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.7372401" vertical-offset="0" max-vertical-offset="529">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perfect3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2_example9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="7" selection-start="633" selection-end="633" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Junk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
+        <state line="2" column="19" selection-start="33" selection-end="33" vertical-scroll-proportion="0.056710776" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
