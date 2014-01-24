@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ch2_example9.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+      <file leaf-file-name="perfect3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perfect3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="32" selection-start="107" selection-end="107" vertical-scroll-proportion="0.14177693" vertical-offset="0" max-vertical-offset="555">
+            <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="perfect3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/perfect3.html">
+      <file leaf-file-name="ch3_example3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch3_example3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="375">
+            <state line="3" column="0" selection-start="24" selection-end="55" vertical-scroll-proportion="-1.0833334" vertical-offset="19" max-vertical-offset="585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch3_example1.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch3_example1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="22" selection-start="393" selection-end="393" vertical-scroll-proportion="0.5179584" vertical-offset="26" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -60,7 +69,6 @@
         <option value="$PROJECT_DIR$/hkjg.html" />
         <option value="$PROJECT_DIR$/ch1_example2.html" />
         <option value="$PROJECT_DIR$/ch1_example3.html" />
-        <option value="$PROJECT_DIR$/ch2_example1.html" />
         <option value="$PROJECT_DIR$/ch2example2.html" />
         <option value="$PROJECT_DIR$/ch2_example2.html" />
         <option value="$PROJECT_DIR$/Practice3.html" />
@@ -73,17 +81,21 @@
         <option value="$PROJECT_DIR$/ch2_practice3.html" />
         <option value="$PROJECT_DIR$/chapter_2_Junk.html" />
         <option value="$PROJECT_DIR$/ch2_practice4.html" />
-        <option value="$PROJECT_DIR$/ch2_example6.html" />
         <option value="$PROJECT_DIR$/ch2_example7.html" />
         <option value="$PROJECT_DIR$/ch2_examle8.html" />
         <option value="$PROJECT_DIR$/Junk.html" />
         <option value="$PROJECT_DIR$/ch2_example9.html" />
+        <option value="$PROJECT_DIR$/ch2_example1.html" />
+        <option value="$PROJECT_DIR$/ch2_example6.html" />
+        <option value="$PROJECT_DIR$/SJ/ch3_example3.html" />
+        <option value="$PROJECT_DIR$/ch3_example3.html" />
+        <option value="$PROJECT_DIR$/ch3_example1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="230" />
-    <option name="y" value="33" />
+    <option name="x" value="348" />
+    <option name="y" value="22" />
     <option name="width" value="1563" />
     <option name="height" value="957" />
   </component>
@@ -131,6 +143,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Take_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Take_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -139,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SJ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
@@ -149,14 +175,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -167,15 +185,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -197,7 +223,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="33" width="1563" height="957" extended-state="0" />
+    <frame x="348" y="22" width="1563" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -212,11 +238,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -233,14 +259,148 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch2_practice3.html">
+    <entry file="file://$PROJECT_DIR$/ch2_example6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="600">
+        <state line="13" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="540">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_examle8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_examle8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1_example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1_example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="50" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perfect3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perfect3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SJ/Sample3.js">
@@ -250,14 +410,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/perfect3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch1_example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="108" selection-end="108" vertical-scroll-proportion="0.11070111" vertical-offset="0" max-vertical-offset="813" />
+        <state line="8" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SJ/Sample3.js">
@@ -270,96 +423,105 @@
         <state line="0" column="0" selection-start="0" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="813" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_practice1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="172" selection-end="173" vertical-scroll-proportion="0.16605166" vertical-offset="0" max-vertical-offset="813" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="7" selection-start="453" selection-end="453" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch2_pratice2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="39" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_example3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.4417178" vertical-offset="0" max-vertical-offset="815">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="39" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_2_Junk.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="11" selection-start="223" selection-end="223" vertical-scroll-proportion="0.33128834" vertical-offset="0" max-vertical-offset="815">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_example1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="544" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="18" column="11" selection-start="223" selection-end="223" vertical-scroll-proportion="0.33128834" vertical-offset="0" max-vertical-offset="815" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2_practice3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2_example7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="176" selection-end="176" vertical-scroll-proportion="0.2392638" vertical-offset="0" max-vertical-offset="815">
-          <folding />
-        </state>
+        <state line="13" column="44" selection-start="176" selection-end="176" vertical-scroll-proportion="0.2392638" vertical-offset="0" max-vertical-offset="815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="172" selection-end="173" vertical-scroll-proportion="0.25519848" vertical-offset="0" max-vertical-offset="529" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch1_example3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="344" selection-end="344" vertical-scroll-proportion="0.2208589" vertical-offset="0" max-vertical-offset="815">
-          <folding />
-        </state>
+        <state line="12" column="7" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_example6.html">
+    <entry file="file://$PROJECT_DIR$/ch2_example1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="52" selection-end="113" vertical-scroll-proportion="0.09202454" vertical-offset="0" max-vertical-offset="815">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Junk.html">
+    <entry file="file://$PROJECT_DIR$/ch1_example2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
+        <state line="20" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2_examle8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.56710774" vertical-offset="0" max-vertical-offset="529">
+        <state line="14" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_practice4.html">
+    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.7372401" vertical-offset="0" max-vertical-offset="529">
+        <state line="12" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="390" selection-end="390" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Junk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="20" selection-start="173" selection-end="173" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3_example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="24" selection-end="55" vertical-scroll-proportion="-1.0833334" vertical-offset="19" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
@@ -371,9 +533,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2_example9.html">
+    <entry file="file://$PROJECT_DIR$/ch3_example1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="32" selection-start="107" selection-end="107" vertical-scroll-proportion="0.14177693" vertical-offset="0" max-vertical-offset="555">
+        <state line="20" column="22" selection-start="393" selection-end="393" vertical-scroll-proportion="0.5179584" vertical-offset="26" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
